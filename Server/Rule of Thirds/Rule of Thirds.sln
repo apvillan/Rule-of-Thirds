@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rule of Thirds", "Rule of Thirds\Rule of Thirds.csproj", "{2C223DEE-2690-4EF4-9AD5-AF66E84C0165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C223DEE-2690-4EF4-9AD5-AF66E84C0165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C223DEE-2690-4EF4-9AD5-AF66E84C0165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C223DEE-2690-4EF4-9AD5-AF66E84C0165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C223DEE-2690-4EF4-9AD5-AF66E84C0165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C323238-F900-475F-A336-5A2BC7E4E205}
+	EndGlobalSection
+EndGlobal

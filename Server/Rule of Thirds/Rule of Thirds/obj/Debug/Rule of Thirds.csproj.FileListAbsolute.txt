@@ -1,0 +1,17 @@
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds.dll.config
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds.pdb
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Newtonsoft.Json.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\System.Net.Http.Formatting.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\System.Web.Http.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\System.Web.Http.WebHost.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Newtonsoft.Json.xml
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\System.Net.Http.Formatting.xml
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\System.Web.Http.xml
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\System.Web.Http.WebHost.xml
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\obj\Debug\Rule of Thirds.csprojResolveAssemblyReference.cache
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\obj\Debug\Rule of Thirds.csproj.CoreCompileInputs.cache
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\obj\Debug\Rule of Thirds.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\obj\Debug\Rule of Thirds.pdb

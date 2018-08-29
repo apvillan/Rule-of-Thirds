@@ -1,0 +1,13 @@
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\obj\Debug\Rule of Thirds Data Context.csproj.CoreCompileInputs.cache
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\obj\Debug\Rule of Thirds Data Context.csprojResolveAssemblyReference.cache
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\bin\Debug\Rule of Thirds Data Context.dll.config
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\bin\Debug\Rule of Thirds Data Context.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\bin\Debug\Rule of Thirds Data Context.pdb
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\bin\Debug\EntityFramework.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\bin\Debug\EntityFramework.xml
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\obj\Debug\Rule of Thirds Data Context.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\obj\Debug\Rule of Thirds Data Context.pdb
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\obj\Debug\Rule_of_Thirds_Data_Context.Migrations.CreateRegistration.resources
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Data Context\obj\Debug\Rule of Thirds Data Context.csproj.GenerateResource.Cache

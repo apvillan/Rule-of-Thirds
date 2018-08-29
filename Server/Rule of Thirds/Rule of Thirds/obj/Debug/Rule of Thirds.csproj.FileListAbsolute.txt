@@ -131,3 +131,9 @@ C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of 
 C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\xunit.core.xml
 C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\xunit.execution.desktop.xml
 C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\obj\Debug\Rule of Thirds.dll.config
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds Data Context.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds Model.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds Data Context.pdb
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds Data Context.dll.config
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds Model.pdb
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds\bin\Rule of Thirds Model.dll.config

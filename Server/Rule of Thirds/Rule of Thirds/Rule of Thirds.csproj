@@ -138,11 +138,20 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Business Logic\" />
+    <Folder Include="Constants\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Interfaces\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Analyzer Include="..\packages\xunit.analyzers.0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Rule of Thirds Data Context\Rule of Thirds Data Context.csproj">
+      <Project>{315b981c-4ae7-48ff-b7bd-35b8aa088bf0}</Project>
+      <Name>Rule of Thirds Data Context</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

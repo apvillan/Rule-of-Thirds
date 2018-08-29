@@ -1,0 +1,7 @@
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Model\obj\Debug\Rule of Thirds Model.csprojResolveAssemblyReference.cache
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Model\obj\Debug\Rule of Thirds Model.csproj.CoreCompileInputs.cache
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Model\bin\Debug\Rule of Thirds Model.dll.config
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Model\bin\Debug\Rule of Thirds Model.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Model\bin\Debug\Rule of Thirds Model.pdb
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Model\obj\Debug\Rule of Thirds Model.dll
+C:\Users\abramvillanueva\Documents\Rule-of-Thirds\Server\Rule of Thirds\Rule of Thirds Model\obj\Debug\Rule of Thirds Model.pdb

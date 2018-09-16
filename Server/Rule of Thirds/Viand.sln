@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rule of Thirds", "Rule of Thirds\Rule of Thirds.csproj", "{2C223DEE-2690-4EF4-9AD5-AF66E84C0165}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viand", "Rule of Thirds\Viand.csproj", "{2C223DEE-2690-4EF4-9AD5-AF66E84C0165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rule of Thirds Data Context", "Rule of Thirds Data Context\Rule of Thirds Data Context.csproj", "{315B981C-4AE7-48FF-B7BD-35B8AA088BF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viand Data Context", "Rule of Thirds Data Context\Viand Data Context.csproj", "{315B981C-4AE7-48FF-B7BD-35B8AA088BF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security", "Security\Security.csproj", "{273FB929-56E7-4C53-93E4-31E30FB651AA}"
 EndProject

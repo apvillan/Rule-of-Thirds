@@ -9,7 +9,7 @@ namespace Rule_of_Thirds_Data_Context.Model.Users
         [Key]
         public int ClaimID { get; set; }
 
-        // Foreign Key to User Model
+        // Foreign Key
         [ForeignKey("UserCredentials")]
         public int UserID { get; set; }
 
